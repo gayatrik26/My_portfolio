@@ -1,0 +1,348 @@
+@media screen and (max-width :1255px) {
+    .textt{
+        font-size: 0.8rem;
+    }
+    .btn{
+        width: 213px;
+    }
+    .about-text{
+        height: 15.562999999999999rem;
+        width: 33rem;
+    }
+    .about-section{
+        height: 23.7rem;
+        width: 54rem;
+    }
+}
+
+@media screen  and (max-width:1145px){
+    .intro-text{
+        width: 50vh;
+    }
+    .intro-text h1{
+        font-size: 2.5rem;
+    }
+    .intro-line{
+        font-size: 1.1rem;
+    }
+    .intro{
+        gap: 50px;
+    }
+    .intro-img img{
+        height: 421px;
+        width: 405px;
+    }
+    .intro pre{
+        font-size: 1.1rem;
+    }
+}
+
+@media screen and (max-width :1040px) {
+    .header-skills h1{
+        font-size: 3rem;
+    }
+    .first-row{
+        gap:0px
+    }
+    .second-row{
+        gap: 0px;
+    }
+}
+
+@media screen and (max-width :1014px) {
+    .box{
+        height: 200px;
+        width: 350px;
+        margin: 10px;
+    }
+    .img-overlay pre{
+        font-size: 0.6rem;
+    }
+    .projects h1{
+        font-size: 2.7rem;
+    }
+    .box{
+        background-position: center center;
+    }
+}
+
+@media screen  and (max-width:997px){
+    .textt{
+        font-size: 0.6rem;
+    }
+    .btn{
+        width: 126px;
+        margin: 15px;
+        padding: 5px;
+        font-size: 1rem;
+    }
+    .about-text{
+        height: 12.562999999999999rem;
+        width: 24rem;
+    }
+    .about-section{
+        height: 17.7rem;
+        width: 40rem;
+    }
+}
+
+@media screen and (max-width :990px){
+    .list i{
+        display: block;
+        /* margin-right: 20px; */
+    }
+    .list ul li a{
+        display: none;
+    }
+    .list ul{
+        gap: 0px;
+    }
+    .list{
+        margin-right: 20px;
+    }
+
+}
+
+@media screen and (max-width :962px) {
+    .header-skills h1{
+        font-size: 3rem;
+    }
+    .first-row{
+        flex-direction: column;
+        margin-left: 16px;
+    }
+    .second-row{
+        flex-direction: column;
+        margin-left: 16px;
+    }
+}
+
+@media screen and (max-width :924px) {
+    .connect h1{
+        font-size: 4rem;
+    }
+    .icon{
+        gap: 29px;
+    }
+}
+
+@media screen  and (max-width:811px){
+    .intro{
+        gap: 0px;
+    }
+    .intro-text h1{
+        font-size: 2rem;
+    }
+    .intro-line{
+        font-size: 0.8rem;
+    }
+    .intro-img img{
+        height: 300px;
+        width: 298px;
+    }
+    .intro pre{
+        font-size: 0.8rem;
+    }
+}
+
+@media screen  and (max-width:792px){
+    .textt{
+        font-size: 0.5rem;
+    }
+    .btn{
+        width: 96px;
+        margin: 10px;
+        padding: 3px;
+        font-size: 0.7rem;
+    }
+    .about-text{
+        height: 8.562999999999999rem;
+        width: 16rem;
+    }
+    .about-section{
+        height: 12.7rem;
+        width: 29rem;
+    }
+}
+
+@media screen  and (max-width:760px){
+    .row-1{
+        flex-direction: column;
+    }
+    .row-2{
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width :613px) {
+    .connect h1{
+        font-size: 2.8rem;
+    }
+    .icon{
+        gap: 29px;
+    }
+}
+
+@media screen  and (max-width:599px){
+    .textt{
+        font-size: 0.4rem;
+    }
+    .btn{
+        width: 77px;
+        margin: 10px;
+        padding: 3px;
+        font-size: 0.6rem;
+    }
+    .about-text{
+        height: 6.562999999999999rem;
+        width: 14rem;
+        border-radius: 20px;
+    }
+    .about-section{
+        height: 9.7rem;
+        width: 22rem;
+        gap: 12px;
+    }
+}
+
+@media screen  and (max-width:576px){
+    .intro{
+        gap: 0px;
+    }
+    .intro-text h1{
+        font-size: 1.6rem;
+    }
+    .intro-line{
+        font-size: 0.6rem;
+    }
+    .intro-img img{
+        height: 150px;
+        width: 150px;
+    }
+    .intro pre{
+        font-size: 0.6rem;
+    }
+    .intro-text{
+        gap: 7px;
+    }
+}
+
+@media screen  and (max-width:548px){
+    nav{
+        height: 3rem ;
+    }
+    .logo{
+        height: 3rem;
+        width: 2rem;
+    }
+    .header-skills h1{
+        font-size: 2rem;
+    }
+}
+
+@media screen  and (max-width:488px){
+    .textt{
+        font-size: 0.35rem;
+    }
+    .btn{
+        width: 53px;
+        margin: 10px;
+        padding: 3px;
+        font-size: 0.5rem;
+    }
+    .about-text{
+        height: 5.562999999999999rem;
+        width: 11rem;
+    }
+    .about-section{
+        height: 7.699999999999999rem;
+        width: 18rem;
+        gap: 12px;
+    }
+}
+
+@media screen and (max-width :421px) {
+    .connect h1{
+        font-size: 2rem;
+    }
+    .icon{
+        gap: 29px;
+    }
+}
+
+@media screen  and (max-width:417px){
+    .textt{
+        font-size: 0.3rem;
+    }
+    .btn{
+        width: 45px;
+        margin: 10px;
+        padding: 3px;
+        font-size: 0.4rem;
+    }
+    .about-text{
+        height: 4.562999999999999rem;
+        width: 9rem;
+    }
+    .about-section{
+        height: 6.699999999999999rem;
+        width: 15rem;
+        gap: 10px;
+    }
+}
+
+@media screen and (max-width :409px) {
+    .connect h1{
+        font-size: 1.5rem;
+    }
+    .icon{
+        gap: 29px;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width :385px) {
+    .box{
+        height: 250px;
+        width: 250px;
+        margin: 10px;
+    }
+    .img-overlay pre{
+        font-size: 0.5rem;
+    }
+    .projects h1{
+        font-size: 2.7rem;
+    }
+    .btns button{
+        font-size: 0.9rem;
+        padding: 5px 12px;
+        border-radius: 8px;
+    }
+    .box{
+        background-position: center center;
+    }
+}
+
+@media screen  and (max-width:371px){
+    .intro{
+        gap: 0px;
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
+    .intro-text{
+        margin-left: 150px;
+    }
+    .intro-text h1{
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (max-width :315px) {
+    .connect h1{
+        font-size: 1.5rem;
+    }
+    .icon{
+        gap: 29px;
+    }
+}

@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Basic&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="media_queries.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <header id="home">
+            <nav>
+                <div class="logo"><a href="#home"></a></div>
+                <div class="list">
+                    <ul>
+                        <li><a href="#home">HOME</a></li>
+                        <li><a href="#about">ABOUT</a></li>
+                        <li><a href="#skills">SKILLS</a></li>
+                        <li><a href="#projects">PROJECTS</a></li>
+                        <li><a href="#contact">CONTACT</a></li>
+                        <li><a href="https://drive.google.com/file/d/1WWpIK24GFAzyqHKBA6KLpIKO3ZzsgX2R/view?usp=drive_link"
+                                target="_blank">RESUME</a></li>
+                    </ul>
+                    <a href="#"><i class="fa-2x fa-solid fa-bars"></i></a>
+                </div>
+            </nav>
+            <div class="intro flex">
+                <div class="intro-text">
+                    <p class="intro-line">Hello, my name is</p>
+                    <h1 class="name-heading">GAYATRI KADAM</h1>
+                    <pre class="intro-line">I am a junior year engineering physics 
+student and frontend developer with 
+an interest in ui/ux design.</pre>
+                </div>
+                <div class="intro-img">
+                    <img src="./img/nav-planetss.png">
+                </div>
+            </div>
+        </header>
+
+        <main>
+            <div class="about" id="about">
+                <div class="about-section flex">
+                    <div class="about-btn">
+                        <div class="btn" id="aboutbtn" onclick="loadtext()">
+                            <p>About Me</p>
+                        </div>
+                        <div class="btn" id="hobbiesbtn" onclick="hobbiess()">
+                            <p>Hobbies</p>
+                        </div>
+                        <div class="btn" id="achbtn" onclick="achivements()">
+                            <p>Achivements</p>
+                        </div>
+                    </div>
+                    <div class="about-text flex">
+                        <pre class="textt">Hello✌🏼, my name is Gayatri Kadam. I am in
+my junior year at Delhi Technological University.
+I am pursuing a  degree of bachelor's of technology 
+in  Engineering physics.🚀</pre>
+                    </div>
+                </div>
+            </div>
+
+            <div class="skills-section" id="skills">
+                <div class="header-skills">
+                    <h1 class="header-text">SKILLS and TOOLS</h1>
+                </div>
+                <div class="first-row">
+                    <div class="one img-txt">
+                        <img src="./img/moon-newww.png">
+                        <!-- <div class="text">
+                        <h3>Languages</h3>
+                        <p>C/C++</p>
+                        <p>Matlab</p>
+                    </div> -->
+                    </div>
+                    <div class="two img-txt">
+                        <img src="./img/red.png">
+                        <!-- <div class="text tools">
+                        <h3>Tools</h3>
+                        <p>VS code</p>
+                        <p>Figma</p>
+                    </div> -->
+                    </div>
+                </div>
+                <div class="second-row">
+                    <div class="three img-txt">
+                        <img src="./img/green.png">
+                        <!-- <div class="text webd">
+                        <h3>Web Development</h3>
+                        <p>HTML</p>
+                        <p>CSS</p>
+                        <p>JavaScript</p>
+                    </div> -->
+                    </div>
+                    <div class="four img-txt">
+                        <img src="./img/blue.png">
+                        <!-- <div class="text git">
+                        <h3></h3>
+                        <p>Git</p>
+                        <p>Github</p>
+                    </div> -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="projects" id="projects">
+                <h1 class="header-text">PROJECTS</h1>
+                <div class="boxes ">
+                    <div class="row-1 flex">
+                        <div class="box-1 box" style="background-image: url(./img/todossss.png);">
+                            <div class="img-overlay flex">
+                                <h5>Docket</h5>
+                                <pre>modern and visually appealing task management app
+Its attractive CSS design enhances 
+the overall user experience</pre>
+                                <div class="btns flex">
+                                    <button onclick="docket_github()">GITHUB<i class="fa-brands fa-github"></i></button>
+                                    <button class="live-btn" onclick="docket_live()">LIVE<i
+                                            class="fa-solid fa-rocket"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="box-2 box" style="background-image: url(./img/news.jpeg);">
+                            <div class="img-overlay flex">
+                                <h5>KhabarNow</h5>
+                                <pre>News Website that  gives real-time news from
+several categories such as politics,
+IPL, finance, and many more. </pre>
+                                <div class="btns flex">
+                                    <button onclick="kharbar_github()">GITHUB<i
+                                            class="fa-brands fa-github"></i></button>
+                                    <!-- <button class="live-btn">LIVE<i class="fa-solid fa-rocket"></i></button> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row-2 flex">
+                        <div class="box-3 box" style="background-image: url(./img/figma.png);">
+                            <div class="img-overlay flex">
+                                <h5>Figma Projects</h5>
+                                <pre>Figma projects include TIM4U app layout, Portfolio
+mockup, Amazon clone homepage,
+Monkhood living landing page</pre>
+                                <div class="btns flex">
+                                    <!-- <button>GITHUB<i class="fa-brands fa-github"></i> </button> -->
+                                    <button class="live-btn" onclick="figma_live()">LIVE<i
+                                            class="fa-solid fa-rocket"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="box-4 box" style="background-image: url(./img/amazon.jpeg);">
+                            <div class="img-overlay flex">
+                                <h5>Amazon clone</h5>
+                                <pre>Designed and built an Amazon website clone using
+pure HTML and CSS, showcasing strong CSS skills 
+in crafting detailed and visually appealing web pages.</pre>
+                                <div class="btns flex">
+                                    <button onclick="amazon_github()">GITHUB<i class="fa-brands fa-github"></i> </button>
+                                    <button class="live-btn" onclick="amazon_live()">LIVE<i
+                                            class="fa-solid fa-rocket"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </main>
+
+        <div class="connect flex" id="contact">
+            <h1 class="header-text" id="connected">STAY CONNECTED</h1>
+            <div class="icon">
+                <a href="https://github.com/gayatrik26" target="_blank"><i class="fa-5x fa-brands fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/gayatri-k-2a9831204/" target="_blank"><i
+                        class="fa-5x fa-brands fa-linkedin"></i></a>
+                <a href="gayatrik22803@gmail.com"><i class="fa-5x fa-regular fa-envelope-open"></i></a>
+            </div>
+        </div>
+
+        <footer class="flex">
+            <div class="logo"></div>
+        </footer>
+
+    </div>
+
+    <script src="index.js"></script>
+</body>
+
+</html>
