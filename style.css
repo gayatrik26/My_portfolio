@@ -240,7 +240,6 @@ ul a:active{
     align-items: center;
 }
 .skills-section img:hover{
-    cursor: pointer;
     transform: scale(1.1);
 }
 
