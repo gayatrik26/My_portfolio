@@ -1,7 +1,6 @@
 let title = document.querySelector('#connected');
 let name1 = "STAY CONNECTED";
 let index = 1;
-const url = "https://drive.google.com/file/d/1WWpIK24GFAzyqHKBA6KLpIKO3ZzsgX2R/view?usp=sharing"
 
 const typewriter = () =>{
     let new_title = name1.slice(0,index);
