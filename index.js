@@ -48,5 +48,5 @@ function hobbiess(){
 
 function achivements(){
     console.log("ach");
-    about_textt.innerHTML = "October 2023 - Achieved first place in the IIT BHU (Varanasi) sports fest.<br>April 2023 - Second runner🎖️ up in AAHVAAN(annual sports fest of DTU) in Football⚽"
+    about_textt.innerHTML = "October 2023 - Achieved first place🎖️ in the IIT BHU (Varanasi) sports fest in Football⚽.<br>April 2023 - Second runner🎖️ up in AAHVAAN(annual sports fest of DTU) in Football⚽"
 }
