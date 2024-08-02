@@ -20,27 +20,36 @@ Hello! I'm Gayatri Kadam, a senior year engineering student at Delhi Technologic
 ## Projects
 
 ### EZ Utilities
-![EZ Utilities](ez-utilities.png)
+
+![ez-utilities](https://github.com/user-attachments/assets/fadf830c-0b8e-49fe-8da8-ff134f58a134)
+
 EZ Utilities is a versatile Chrome extension offering various tools like a color picker, text utility, YouTube video pause, password generator, and to-do list. This extension aims to provide a comprehensive set of utilities for everyday use.
 
 - **GitHub**: [EZ Utilities](https://github.com/gayatrik26/EZ-Utilities)
 - **Live Demo**: [EZ Utilities Live](https://chrome.google.com/webstore/detail/ez-utilities/)
 
 ### KhabarNow+
+
 ![KhabarNow+](khabarNow+.png)
+
+![khabarNow+](https://github.com/user-attachments/assets/0bff90c3-e79e-4b43-b332-a2357e6776c5)
 KhabarNow+ is an upgraded version of KhabarNow, a real-time news application built with ReactJS. It fetches news data from various categories such as politics, IPL, finance, and more using the News API, providing users with up-to-date information from around the world.
 
 - **GitHub**: [KhabarNow+](https://github.com/gayatrik26/KhabarNow-)
 
 ### MovieHive
-![MovieHive](img/movie.png)
+
+![movie](https://github.com/user-attachments/assets/2d9d06a4-49c8-4df7-bda3-8da805ca335e) 
+
 MovieHive is a modern, responsive movie site where users can browse trending movies, explore genres, and view detailed information on their favorite titles. The site offers a user-friendly interface and comprehensive movie details.
 
 - **GitHub**: [MovieHive](https://github.com/gayatrik26/MovieHive)
 - **Live Demo**: [MovieHive Live](https://moviehive.example.com)
 
-### TextSmith
-![TextSmith](textsmith.png)
+### TextSmith 
+
+![textsmith](https://github.com/user-attachments/assets/93b9f367-7958-4ae5-86d3-a29c43ea3e3d)
+
 TextSmith is a utility tool designed to manipulate text. It includes features such as word counting, character counting, lowercase conversion, case inversion, text replication, and text clearing. TextSmith aims to enhance productivity by providing essential text manipulation tools.
 
 - **GitHub**: [TextSmith](https://github.com/gayatrik26/TextSmith)
