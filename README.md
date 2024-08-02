@@ -30,7 +30,6 @@ EZ Utilities is a versatile Chrome extension offering various tools like a color
 
 ### KhabarNow+
 
-![KhabarNow+](khabarNow+.png)
 
 ![khabarNow+](https://github.com/user-attachments/assets/0bff90c3-e79e-4b43-b332-a2357e6776c5) 
 
