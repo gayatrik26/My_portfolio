@@ -30,8 +30,6 @@ EZ Utilities is a versatile Chrome extension offering various tools like a color
 
 ### KhabarNow+
 
-![KhabarNow+](khabarNow+.png)
-
 ![khabarNow+](https://github.com/user-attachments/assets/0bff90c3-e79e-4b43-b332-a2357e6776c5) 
 
 KhabarNow+ is an upgraded version of KhabarNow, a real-time news application built with ReactJS. It fetches news data from various categories such as politics, IPL, finance, and more using the News API, providing users with up-to-date information from around the world.
