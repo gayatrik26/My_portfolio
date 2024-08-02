@@ -26,13 +26,14 @@ Hello! I'm Gayatri Kadam, a senior year engineering student at Delhi Technologic
 EZ Utilities is a versatile Chrome extension offering various tools like a color picker, text utility, YouTube video pause, password generator, and to-do list. This extension aims to provide a comprehensive set of utilities for everyday use.
 
 - **GitHub**: [EZ Utilities](https://github.com/gayatrik26/EZ-Utilities)
-- **Live Demo**: [EZ Utilities Live](https://chrome.google.com/webstore/detail/ez-utilities/)
+- **Live Demo**: [EZ Utilities Live](https://chromewebstore.google.com/detail/ez-utilities/bjdfnnianbafojfjefkffmnabnffibgc?hl=en-GB&authuser=0)
 
 ### KhabarNow+
 
 ![KhabarNow+](khabarNow+.png)
 
-![khabarNow+](https://github.com/user-attachments/assets/0bff90c3-e79e-4b43-b332-a2357e6776c5)
+![khabarNow+](https://github.com/user-attachments/assets/0bff90c3-e79e-4b43-b332-a2357e6776c5) 
+
 KhabarNow+ is an upgraded version of KhabarNow, a real-time news application built with ReactJS. It fetches news data from various categories such as politics, IPL, finance, and more using the News API, providing users with up-to-date information from around the world.
 
 - **GitHub**: [KhabarNow+](https://github.com/gayatrik26/KhabarNow-)
@@ -44,7 +45,7 @@ KhabarNow+ is an upgraded version of KhabarNow, a real-time news application bui
 MovieHive is a modern, responsive movie site where users can browse trending movies, explore genres, and view detailed information on their favorite titles. The site offers a user-friendly interface and comprehensive movie details.
 
 - **GitHub**: [MovieHive](https://github.com/gayatrik26/MovieHive)
-- **Live Demo**: [MovieHive Live](https://moviehive.example.com)
+- **Live Demo**: [MovieHive Live](https://github.com/gayatrik26/MoiveHive-2.0)
 
 ### TextSmith 
 
@@ -53,7 +54,7 @@ MovieHive is a modern, responsive movie site where users can browse trending mov
 TextSmith is a utility tool designed to manipulate text. It includes features such as word counting, character counting, lowercase conversion, case inversion, text replication, and text clearing. TextSmith aims to enhance productivity by providing essential text manipulation tools.
 
 - **GitHub**: [TextSmith](https://github.com/gayatrik26/TextSmith)
-- **Live Demo**: [TextSmith Live](https://textsmith.example.com)
+- **Live Demo**: [TextSmith Live](https://textsmith.netlify.app/)
 
 ## Skills and Tools
 
