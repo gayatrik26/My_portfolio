@@ -25,7 +25,7 @@ function kharbar_github(){
     window.open("https://github.com/gayatrik26/KhabarNow-","_blank");
 }
 function movie_live(){
-    window.open("https://moviehive2.netlify.app/" , "_blank");
+    window.open("https://moviehive.vercel.app/" , "_blank");
 }
 function movie_github(){
     window.open("https://github.com/gayatrik26/MoiveHive-2.0" , "_blank");
@@ -34,7 +34,7 @@ function text_live(){
     window.open("https://textsmith.netlify.app/", "_blank");
 }
 function text_live(){
-    window.open("https://textsmith.netlify.app/", "_blank");
+    window.open("https://text-smith.vercel.app/", "_blank");
 }
 function text_github(){
     window.open("https://github.com/gayatrik26/TextSmith","_blank");
