@@ -27,18 +27,15 @@ function kharbar_github(){
 function movie_live(){
     window.open("https://moviehive2.netlify.app/" , "_blank");
 }
-// <<<<<<< HEAD
 function movie_github(){
     window.open("https://github.com/gayatrik26/MoiveHive-2.0" , "_blank");
 }
 function text_live(){
     window.open("https://textsmith.netlify.app/", "_blank");
 }
-// =======
 function text_live(){
     window.open("https://textsmith.netlify.app/", "_blank");
 }
-// >>>>>>> 0f4326022ca1859aebb1b6fb86613d09854e43d7
 function text_github(){
     window.open("https://github.com/gayatrik26/TextSmith","_blank");
 }
